@@ -13,12 +13,10 @@ class LinkedList {
   constructor() {
     this.head = null;
   }
-
   /**
-   * 
-   * @param {*} data 
-   * @param {*} position 
-   * @param {*} list 
+   * @param {Number} data 
+   * @param {Number} position 
+   * @param {Number} list 
    */
   // Add node at any position start from 0 to last 
   // all operartions in one code 
